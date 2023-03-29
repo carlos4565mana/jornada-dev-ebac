@@ -17,6 +17,7 @@ function App() {
         >
           Learn React with Ebac
         </a>
+        <p>olá mundo!</p>
       </header>
     </div>
   );
